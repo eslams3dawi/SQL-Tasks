@@ -152,8 +152,6 @@ SELECT AVG(Orders.TotalAmount)
 FROM Orders
 GROUP BY CustomerId
 
---Bonus: Combined Task
-
 
 
 
